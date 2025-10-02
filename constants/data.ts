@@ -451,7 +451,7 @@ export const coreTeam = [
     name: "Gayatri Salunke",
     role: "Team Manager",
     department: "Computer Engineering",
-    image: "/images/Gayatri_s.jpg",
+    image: "https://ik.imagekit.io/tw7e6u1ae/images/Gayatri_S.jpg?updatedAt=1759390662775",
     linkedin: "https://www.linkedin.com/in/gayatri-salunke-a1b592372/",
     email: "gayatri_salunke_comp@moderncoe.edu.in ",
   },
