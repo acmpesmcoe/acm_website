@@ -9,7 +9,7 @@ export const pastEvents = [
     description:
       "A departmental fest for Computer Engineering students, featuring a variety of small events and competitions.",
     type: "Event",
-    image: "/images/Invicta.jpg",
+    image: "https://ik.imagekit.io/tw7e6u1ae/images/Invicta.JPG?updatedAt=1759390669683",
     status: "past" as const,
   },
   {
@@ -20,7 +20,7 @@ export const pastEvents = [
     description:
       "A 30-day online Data Structures and Algorithms (DSA) challenge to improve coding proficiency.",
     type: "Competition",
-    image: "/images/GOC_S1.jpg",
+    image: "https://ik.imagekit.io/tw7e6u1ae/images/GOC_S1.JPG?updatedAt=1759390662596",
     status: "past" as const,
   },
   {
@@ -31,7 +31,7 @@ export const pastEvents = [
     description:
       "A simulation where participants role-play as delegates to various UN committees, debating and solving global issues.",
     type: "Event",
-    image: "/images/MUN.jpg",
+    image: "https://ik.imagekit.io/tw7e6u1ae/images/MUN2.JPG?updatedAt=1759390669986",
     status: "past" as const,
   },
   {
@@ -52,7 +52,7 @@ export const pastEvents = [
     time: "3:00 PM - 6:00 PM",
     description: "The college-level hackathon organized by the Computer Engineering department, challenging students to build innovative solutions.",
     type: "Competition",
-    image: "/images/hackforge2.jpg",
+    image: "https://ik.imagekit.io/tw7e6u1ae/images/hackforge2.JPG?updatedAt=1759390669275",
     status: "past" as const,
   },
   {
@@ -62,7 +62,7 @@ export const pastEvents = [
     time: "9:00 AM - 5:00 PM",
     description: "A code-themed memory game designed to test and improve participants&apos; ability to recall code snippets or programming concepts.",
     type: "Event",
-    image: "/images/flipflop.jpg",
+    image: "https://ik.imagekit.io/tw7e6u1ae/images/flipflop.JPG?updatedAt=1759390669549",
     status: "past" as const,
   },
 ]
