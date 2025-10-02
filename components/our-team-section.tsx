@@ -13,7 +13,7 @@ export default function OurTeamSection() {
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-6 animate-slide-in-down">Our Team</h2>
           <p className="text-lg sm:text-xl text-blue-200 max-w-3xl mx-auto animate-fade-in delay-300">
-            Meet the dedicated individuals who drive PES MCOE's ACM Student's Chapter's mission and vision forward.
+           {"Meet the dedicated individuals who drive PES MCOE's ACM Student's Chapter's mission and vision forward."} 
           </p>
         </div>
 

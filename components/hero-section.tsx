@@ -27,7 +27,7 @@ export default function HeroSection() {
         >
           <div className="mb-6">
             <Badge className="bg-blue-400 text-primary border-0 px-4 py-2 text-sm animate-bounce-glow font-semibold">
-              PES's Modern College of Engineering's
+              {"PES's Modern College of Engineering's"}
             </Badge>
           </div>
 

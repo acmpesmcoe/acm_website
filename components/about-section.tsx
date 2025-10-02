@@ -56,7 +56,7 @@ export default function AboutSection() {
             Our Teams
           </h2>
           <p className="text-lg sm:text-xl text-blue-200 max-w-3xl mx-auto animate-fade-in delay-300">
-            Meet the dedicated teams that drive ACM's success and innovation.
+           {"Meet the dedicated teams that drive ACM's success and innovation."}
           </p>
         </div>
 

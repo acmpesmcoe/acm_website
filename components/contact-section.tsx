@@ -46,7 +46,7 @@ export default function ContactSection() {
             Get In Touch
           </h2>
           <p className="text-lg sm:text-xl text-blue-200 max-w-3xl mx-auto animate-fade-in delay-300">
-            Ready to join our community? Have questions? We'd love to hear from you!
+            {"Ready to join our community? Have questions? We'd love to hear from you!"}
           </p>
         </div>
 

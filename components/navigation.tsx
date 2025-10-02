@@ -38,13 +38,13 @@ export default function Navigation() {
             {/* LOGO: Size set to h-20 w-20 */}
             <img
               src="/images/pes_finalboss-removebg-preview.png"
-              alt="P.E.S's MCOE ACM Logo"
+              alt={"P.E.S's MCOE ACM Logo"}
               className="h-20 w-20 object-contain" // Height and Width are now 20 units
             />
-            <span className="text-2xl font-bold text-white animate-text-shimmer">P.E.S's MCOE ACM Student Chapter</span>
+            <span className="text-2xl font-bold text-white animate-text-shimmer">{"P.E.S's MCOE ACM Student Chapter"}</span>
             <img
               src="/images/acmlogo.png"
-              alt="P.E.S's MCOE ACM Logo"
+              alt={"P.E.S's MCOE ACM Logo"}
               className="h-20 w-20 object-contain" // Height and Width are now 20 units
             />
           </Link>

@@ -60,7 +60,7 @@ export const pastEvents = [
     title: "FlipFlop",
     date: "July 25, 2023",
     time: "9:00 AM - 5:00 PM",
-    description: "A code-themed memory game designed to test and improve participants' ability to recall code snippets or programming concepts.",
+    description: "A code-themed memory game designed to test and improve participants&apos; ability to recall code snippets or programming concepts.",
     type: "Event",
     image: "/images/flipflop.jpg",
     status: "past" as const,
@@ -180,7 +180,7 @@ export const photos = [
     title: "Flipflop",
     category: "team-activity" as const,
     date: "",
-    description: "A code-themed memory game designed to test and improve participants' ability to recall code snippets or programming concepts.",
+    description: "A code-themed memory game designed to test and improve participants&apos; ability to recall code snippets or programming concepts.",
   },
   {
     id: "7",

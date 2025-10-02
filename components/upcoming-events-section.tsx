@@ -16,7 +16,7 @@ export default function UpcomingEventsSection() {
             Upcoming Events
           </h2>
           <p className="text-lg sm:text-xl text-blue-200 max-w-3xl mx-auto animate-fade-in delay-300">
-            Don't miss out on our exciting upcoming events and workshops. Register now!
+            {"Don't miss out on our exciting upcoming events and workshops. Register now!"}
           </p>
         </div>
 
