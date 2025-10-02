@@ -11,7 +11,7 @@ import { photos } from "@/constants/data"
 
 export default function GlimpsesSection() {
   const [selectedCategory, setSelectedCategory] = useState<string>("all")
-  const [showSubmitForm, setShowSubmitForm] = useState(false)
+  
 
   const categories = [
     { id: "all", label: "All", count: photos.length },

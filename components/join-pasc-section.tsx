@@ -30,43 +30,7 @@ export default function JoinPascSection() {
     },
   ]
 
-  const membershipOptions = [
-    {
-      title: "Student Member",
-      price: "Free",
-      duration: "Academic Year",
-      features: [
-        "Access to all events and workshops",
-        "Networking opportunities",
-        "Certificate of participation",
-        "Access to study materials",
-      ],
-    },
-    {
-      title: "Premium Member",
-      price: "$25",
-      duration: "Academic Year",
-      features: [
-        "All Student Member benefits",
-        "Priority registration for events",
-        "Exclusive workshops and seminars",
-        "Mentorship program access",
-        "Industry project opportunities",
-      ],
-    },
-    {
-      title: "Lifetime Member",
-      price: "$100",
-      duration: "Lifetime",
-      features: [
-        "All Premium Member benefits",
-        "Alumni network access",
-        "Lifetime event access",
-        "Special recognition",
-        "Voting rights in elections",
-      ],
-    },
-  ]
+ 
 
   return (
     <section id="join-pasc" className="py-20 bg-blue-900/10 relative z-10">

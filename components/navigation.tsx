@@ -4,6 +4,7 @@ import { useState } from "react"
 import { usePathname } from "next/navigation"
 import Link from "next/link"
 import { Menu, X } from "lucide-react"
+import Image from "next/image"
 
 export default function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
@@ -36,13 +37,13 @@ export default function Navigation() {
         <div className="flex items-center justify-between">
           <Link href="/" className="flex items-center space-x-2">
             {/* LOGO: Size set to h-20 w-20 */}
-            <img
+            <Image
               src="/images/pes_finalboss-removebg-preview.png"
               alt={"P.E.S's MCOE ACM Logo"}
               className="h-20 w-20 object-contain" // Height and Width are now 20 units
             />
             <span className="text-2xl font-bold text-white animate-text-shimmer">{"P.E.S's MCOE ACM Student Chapter"}</span>
-            <img
+            <Image
               src="/images/acmlogo.png"
               alt={"P.E.S's MCOE ACM Logo"}
               className="h-20 w-20 object-contain" // Height and Width are now 20 units

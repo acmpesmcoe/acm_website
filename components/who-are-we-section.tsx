@@ -2,7 +2,7 @@
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Target, Eye, Heart } from "lucide-react"
-import Image from "next/image"
+
 import { achievements, journeyMilestones } from "@/constants/data"
 
 export default function WhoAreWeSection() {
