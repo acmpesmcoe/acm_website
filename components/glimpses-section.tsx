@@ -1,12 +1,11 @@
 "use client"
 
 import { useState } from "react"
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
-import { Textarea } from "@/components/ui/textarea"
+
 import { Badge } from "@/components/ui/badge"
-import { Upload, Camera, Filter } from "lucide-react"
+import { Filter } from "lucide-react"
 import Image from "next/image"
 import { photos } from "@/constants/data"
 
