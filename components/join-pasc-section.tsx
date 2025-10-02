@@ -219,7 +219,7 @@ export default function JoinPascSection() {
                       <p className="text-blue-400 text-xs">Class of {testimonial.year}</p>
                     </div>
                   </div>
-                  <p className="text-blue-200 text-sm italic">"{testimonial.message}"</p>
+                  <p className="text-blue-200 text-sm italic">{`"${testimonial.message}"`}</p>
                 </CardContent>
               </Card>
             ))}
