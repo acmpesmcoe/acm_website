@@ -75,7 +75,7 @@ export const upcomingEvents = [
     time: "",
     description: "A 30-day online Data Structures and Algorithms (DSA) challenge to improve coding proficiency.",
     type: "Competition",
-    image: "/images/GOC_s2.png",
+    image: "https://ik.imagekit.io/tw7e6u1ae/images/GOC_s2.png?updatedAt=1759390664497",
     status: "upcoming" as const,
     registrationLink: "https://forms.google.com/blockchain-workshop",
   },
